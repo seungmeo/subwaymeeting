@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mariaDB-166d23ed052-293e0a58a417ffee" provider="mysql" driver="mariaDB" name="MariaDB - subwaymeeting" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="subwaymeeting" url="jdbc:mysql://localhost:3306/subwaymeeting" user="root" password="QlZVdCGi" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev"/>
+	</data-source>
+	<data-source id="mariaDB-166d2449e17-4209f6de07389a3f" provider="mysql" driver="mariaDB" name="MariaDB - subwaymeeting 2" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="subwaymeeting" url="jdbc:mysql://localhost:3306/subwaymeeting" user="root" password="QlZVdCGi" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
